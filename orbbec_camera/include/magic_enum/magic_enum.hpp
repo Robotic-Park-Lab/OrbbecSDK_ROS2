@@ -35,6 +35,7 @@
 #define MAGIC_ENUM_VERSION_MAJOR 0
 #define MAGIC_ENUM_VERSION_MINOR 8
 #define MAGIC_ENUM_VERSION_PATCH 2
+#define MAGIC_ENUM_NO_CHECK_SUPPORT 1
 
 #include <array>
 #include <cassert>
